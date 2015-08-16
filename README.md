@@ -1,1 +1,3 @@
 # userscripts
+
+FirefoxならGreasemonkey,ChromeならTempermonkey
